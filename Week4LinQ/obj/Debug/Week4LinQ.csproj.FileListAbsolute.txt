@@ -1,0 +1,6 @@
+C:\Users\MariaBochkarev\Desktop\C#\Week4LinQ\Week4LinQ\bin\Debug\Week4LinQ.exe.config
+C:\Users\MariaBochkarev\Desktop\C#\Week4LinQ\Week4LinQ\bin\Debug\Week4LinQ.exe
+C:\Users\MariaBochkarev\Desktop\C#\Week4LinQ\Week4LinQ\bin\Debug\Week4LinQ.pdb
+C:\Users\MariaBochkarev\Desktop\C#\Week4LinQ\Week4LinQ\obj\Debug\Week4LinQ.csprojResolveAssemblyReference.cache
+C:\Users\MariaBochkarev\Desktop\C#\Week4LinQ\Week4LinQ\obj\Debug\Week4LinQ.exe
+C:\Users\MariaBochkarev\Desktop\C#\Week4LinQ\Week4LinQ\obj\Debug\Week4LinQ.pdb
